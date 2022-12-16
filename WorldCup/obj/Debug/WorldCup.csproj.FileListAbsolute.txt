@@ -1,0 +1,11 @@
+C:\Users\Karki baby\Desktop\c#\WorldCup\bin\Debug\WorldCup.exe.config
+C:\Users\Karki baby\Desktop\c#\WorldCup\bin\Debug\WorldCup.exe
+C:\Users\Karki baby\Desktop\c#\WorldCup\bin\Debug\WorldCup.pdb
+C:\Users\Karki baby\Desktop\c#\WorldCup\obj\Debug\WorldCup.csproj.AssemblyReference.cache
+C:\Users\Karki baby\Desktop\c#\WorldCup\obj\Debug\WorldCup.csproj.SuggestedBindingRedirects.cache
+C:\Users\Karki baby\Desktop\c#\WorldCup\obj\Debug\WorldCup.Form1.resources
+C:\Users\Karki baby\Desktop\c#\WorldCup\obj\Debug\WorldCup.Properties.Resources.resources
+C:\Users\Karki baby\Desktop\c#\WorldCup\obj\Debug\WorldCup.csproj.GenerateResource.cache
+C:\Users\Karki baby\Desktop\c#\WorldCup\obj\Debug\WorldCup.csproj.CoreCompileInputs.cache
+C:\Users\Karki baby\Desktop\c#\WorldCup\obj\Debug\WorldCup.exe
+C:\Users\Karki baby\Desktop\c#\WorldCup\obj\Debug\WorldCup.pdb

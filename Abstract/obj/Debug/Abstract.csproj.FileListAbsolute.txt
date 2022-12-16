@@ -1,0 +1,11 @@
+C:\Users\Karki baby\Desktop\c#\Abstract\obj\Debug\Abstract.csproj.AssemblyReference.cache
+C:\Users\Karki baby\Desktop\c#\Abstract\obj\Debug\Abstract.csproj.SuggestedBindingRedirects.cache
+C:\Users\Karki baby\Desktop\c#\Abstract\obj\Debug\Abstract.Properties.Resources.resources
+C:\Users\Karki baby\Desktop\c#\Abstract\obj\Debug\Abstract.csproj.GenerateResource.cache
+C:\Users\Karki baby\Desktop\c#\Abstract\obj\Debug\Abstract.csproj.CoreCompileInputs.cache
+C:\Users\Karki baby\Desktop\c#\Abstract\bin\Debug\Abstract.exe.config
+C:\Users\Karki baby\Desktop\c#\Abstract\bin\Debug\Abstract.exe
+C:\Users\Karki baby\Desktop\c#\Abstract\bin\Debug\Abstract.pdb
+C:\Users\Karki baby\Desktop\c#\Abstract\obj\Debug\Abstract.Form1.resources
+C:\Users\Karki baby\Desktop\c#\Abstract\obj\Debug\Abstract.exe
+C:\Users\Karki baby\Desktop\c#\Abstract\obj\Debug\Abstract.pdb
